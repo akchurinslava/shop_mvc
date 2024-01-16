@@ -66,10 +66,10 @@
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="IndexS" style="color: beige">SignalRChat</a>
                         </li>
                     </ul>
-                    <ul class="navbar-nav ml-auto">
+                    <ul class="navbar-nav ml-auto" >
                         @if (signInManager.IsSignedIn(User))
                         {
-                            <li class="nav-item dropdown">
+                            <li class="nav-item dropdown" >
                                 <div class="dropdown">
                                     <button class="btn btn-info dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
                                         Manage Button
@@ -90,11 +90,11 @@
                         }
                         else
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Register">Register</a>
+                            <li class="nav-item" style="color: beige">
+                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Register" style="color: beige">Register</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Login">Login</a>
+                            <li class="nav-item" style="color: beige">
+                                <a class="nav-link text-dark" asp-controller="Accounts" asp-action="Login" style="color: beige">Login</a>
                             </li>
                         }
                     </ul>

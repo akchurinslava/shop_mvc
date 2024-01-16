@@ -59,8 +59,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 })
 .AddEntityFrameworkStores<ShopContext>()
 .AddDefaultTokenProviders()
-.AddTokenProvider<DataProtectorTokenProvider<ApplicationUser>>("CustomEmailConfirmation");
-//.AddDefaultUI();
+.AddTokenProvider<DataProtectorTokenProvider<ApplicationUser>>("CustomEmailConfirmation").AddDefaultUI();
 
 
 
@@ -70,8 +69,8 @@ builder.Services.Configure<CustomEmailConfirmationTokenProviderOptions>(o => o.T
 
 builder.Services.AddAuthentication().AddGoogle(options =>
 {
-    options.ClientId = "";
-    options.ClientSecret = "";
+    options.ClientId = "***";
+    options.ClientSecret = "***";
 });
 
 

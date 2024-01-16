@@ -1,33 +1,25 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Program.cs">
     <Files>
-      <File FileName="Shop/Controllers/AccountsController.cs" Line="230" Column="50" />
-      <File FileName="Shop/Program.cs" Line="74" Column="19" />
-      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" Line="19" Column="1" />
-      <File FileName="Shop.Core/Domain/ApplicationUser.cs" Line="9" Column="35" />
-      <File FileName="Shop/Views/Accounts/Login.cshtml" Line="54" Column="71" />
-      <File FileName="Shop/Views/Shared/_Layout.cshtml" Line="19" Column="14" />
+      <File FileName="Shop/Controllers/AccountsController.cs" Line="80" Column="1" />
+      <File FileName="Shop/Program.cs" Line="73" Column="32" />
+      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" />
+      <File FileName="Shop.Core/Domain/ApplicationUser.cs" />
+      <File FileName="Shop/Views/Accounts/Login.cshtml" />
+      <File FileName="Shop/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Shop" expanded="True">
+          <Node name="Shop">
             <Node name="Shop">
-              <Node name="Models">
-                <Node name="Spaceship" expanded="True" />
-              </Node>
-              <Node name="Utilities" expanded="True" />
-              <Node name="Views" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
                 <Node name="Accounts" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Shop.Core">
+            <Node name="Shop.Core" expanded="True">
               <Node name="Domain" expanded="True" />
             </Node>
           </Node>
@@ -35,9 +27,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

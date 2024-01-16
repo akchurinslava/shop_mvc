@@ -36,8 +36,8 @@
 	        </div>
         </form>
 </div>
-    <div class="col-md-6">
-        <h1>External Login</h1>
+    <div class="col-md-6" style="margin-top: 5px">
+        <h6>External Login</h6>
         <hr />
         @{
             if (Model.ExternalLogins.Count == 0)
@@ -50,10 +50,9 @@
                     <div>
                         @foreach (var provider in Model.ExternalLogins)
                             { 
-                                <button type="submit" class="btn btn-primary" style="width:auto" name="provider" value="@provider.Name"
-					            title="Login using your @provider.DisplayName account">
-
-				                </button>
+                                <button type="submit" class="btn btn-primary" style="width:200px; height:30px; margin-top: 24px" name="provider" value="@provider.Name"
+                                        title="Login using your @provider.DisplayName"><span class="button-text" style="margin-top: -50px">GOOGLE</span>
+                                </button>
 			                }
 		            </div>
 		        </form>
