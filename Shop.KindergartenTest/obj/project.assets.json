@@ -9926,11 +9926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
+      "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
       "projectName": "Shop.KindergartenTest",
-      "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
+      "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
       "packagesPath": "/Users/my_pc/.nuget/packages/",
-      "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/obj/",
+      "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -9946,11 +9946,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
-              "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
+            "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
+              "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
             },
-            "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj": {
-              "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj"
+            "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj": {
+              "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj"
             }
           }
         }

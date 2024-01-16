@@ -9926,11 +9926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Shop.csproj",
+      "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop/Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/Shop.csproj",
+      "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop/Shop.csproj",
       "packagesPath": "/Users/my_pc/.nuget/packages/",
-      "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/",
+      "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -9946,11 +9946,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
-              "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
+            "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
+              "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
             },
-            "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj": {
-              "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj"
+            "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj": {
+              "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj": {}
+    "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj": {}
   },
   "projects": {
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
+    "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj",
+        "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj",
         "projectName": "Shop.ApplicationServices",
-        "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj",
+        "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj",
         "packagesPath": "/Users/my_pc/.nuget/packages/",
-        "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/obj/",
+        "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -27,11 +27,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj": {
-                "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj"
+              "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj": {
+                "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj"
               },
-              "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj": {
-                "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj"
+              "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj": {
+                "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj": {
+    "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj",
+        "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj",
         "projectName": "Shop.Core",
-        "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj",
+        "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj",
         "packagesPath": "/Users/my_pc/.nuget/packages/",
-        "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/obj/",
+        "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -283,14 +283,14 @@
         }
       }
     },
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj": {
+    "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj",
+        "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj",
         "projectName": "Shop.Data",
-        "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/Shop.Data.csproj",
+        "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Data/Shop.Data.csproj",
         "packagesPath": "/Users/my_pc/.nuget/packages/",
-        "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Data/obj/",
+        "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -306,8 +306,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj": {
-                "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj"
+              "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj": {
+                "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj"
               }
             }
           }
@@ -423,14 +423,14 @@
         }
       }
     },
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj": {
+    "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
+        "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
         "projectName": "Shop.KindergartenTest",
-        "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
+        "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/Shop.KindergartenTest.csproj",
         "packagesPath": "/Users/my_pc/.nuget/packages/",
-        "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.KindergartenTest/obj/",
+        "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.KindergartenTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -446,11 +446,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
-                "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
+              "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
+                "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
               },
-              "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj": {
-                "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj"
+              "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj": {
+                "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj"
               }
             }
           }

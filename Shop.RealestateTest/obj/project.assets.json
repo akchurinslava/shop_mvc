@@ -9925,11 +9925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
+      "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
       "projectName": "Shop.RealestateTest",
-      "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
+      "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.RealestateTest/Shop.RealestateTest.csproj",
       "packagesPath": "/Users/my_pc/.nuget/packages/",
-      "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.RealestateTest/obj/",
+      "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.RealestateTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/my_pc/.nuget/NuGet/NuGet.Config"
@@ -9945,8 +9945,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
-              "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
+            "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj": {
+              "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/Shop.ApplicationServices.csproj"
             }
           }
         }

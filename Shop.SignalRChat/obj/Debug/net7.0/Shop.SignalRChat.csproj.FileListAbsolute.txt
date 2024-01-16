@@ -36,3 +36,41 @@
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.pdb
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.genruntimeconfig.cache
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/obj/Debug/net7.0/ref/Shop.SignalRChat.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/appsettings.Development.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/appsettings.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.staticwebassets.runtime.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.deps.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.runtimeconfig.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.pdb
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.csproj.AssemblyReference.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.AssemblyInfoInputs.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.AssemblyInfo.cs
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.csproj.CoreCompileInputs.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.MvcApplicationPartsAssemblyInfo.cs
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.RazorAssemblyInfo.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.RazorAssemblyInfo.cs
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.Shop.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.build.Shop.SignalRChat.props
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Shop.SignalRChat.props
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Shop.SignalRChat.props
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets.build.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/staticwebassets.development.json
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/scopedcss/bundle/Shop.SignalRChat.styles.css
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/scopedcss/projectbundle/Shop.SignalRChat.bundle.scp.css
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.csproj.CopyComplete
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/refint/Shop.SignalRChat.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.pdb
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/Shop.SignalRChat.genruntimeconfig.cache
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/Debug/net7.0/ref/Shop.SignalRChat.dll

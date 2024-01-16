@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uD+m2w0J4TFmtbuZbOyuxLqN/o/1dQ1U0up+YnE8Ve8rXsD7/xTb2tzrZBtJayyTAkFKQGErM1DvTWzeZIGdZQ==",
+  "dgSpecHash": "/QU6CHL6KYyOBrYxvSr874oXIvhj1/ox/WCnIHxxz4uxvRkzqgGeO1ck7xnh8zy4ZLEb1L/uPVVox02s2QbHUw==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SpaceshipTest/Shop.SpaceshipTest.csproj",
+  "projectFilePath": "/Users/my_pc/Desktop/work/github/shop/Shop.SpaceshipTest/Shop.SpaceshipTest.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

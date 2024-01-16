@@ -1,39 +1,42 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/Accounts/Register.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Models/Spaceship/SpaceshipDetailsViewModel.cs">
     <Files>
-      <File FileName="Shop/Views/Accounts/ForgotPasswordConfirmation.cshtml" Line="3" Column="49" />
-      <File FileName="Shop/Views/Accounts/Login.cshtml" Line="37" Column="7" />
-      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" Line="23" Column="1" />
+      <File FileName="Shop/Views/Accounts/ForgotPasswordConfirmation.cshtml" />
+      <File FileName="Shop/Views/Accounts/Login.cshtml" />
+      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" />
       <File FileName="Shop/Views/Accounts/Register.cshtml" Line="20" Column="51" />
-      <File FileName="Shop/Models/Accounts/RegisterViewModel.cs" Line="9" Column="1" />
-      <File FileName="Shop/Views/Accounts/ResetPassword.cshtml" Line="1" Column="51" />
-      <File FileName="Shop/Models/Accounts/ResetPasswordViewModel.cs" Line="24" Column="42" />
-      <File FileName="Shop/Views/Accounts/ResetPasswordConfirmation.cshtml" Line="7" Column="78" />
-      <File FileName="Shop/Views/Shared/_Layout.cshtml" Line="47" Column="30" />
-      <File FileName="Shop/Controllers/AccountsController.cs" Line="18" Column="1" />
+      <File FileName="Shop/Models/Accounts/RegisterViewModel.cs" />
+      <File FileName="Shop/Views/Accounts/ResetPassword.cshtml" />
+      <File FileName="Shop/Models/Accounts/ResetPasswordViewModel.cs" />
+      <File FileName="Shop/Views/Accounts/ResetPasswordConfirmation.cshtml" />
+      <File FileName="Shop/Views/Shared/_Layout.cshtml" />
+      <File FileName="Shop/Controllers/AccountsController.cs" />
+      <File FileName="Shop/Program.cs" Line="15" Column="44" />
+      <File FileName="Shop.Core/Dto/ChuckNorrisDtos/ChuckNorrisResponseRootDto.cs" Line="8" Column="29" />
+      <File FileName="Shop/Utilities/ValidEmailDomainAttribute.cs" Line="17" Column="23" />
+      <File FileName="../../../../.nuget/packages/microsoft.net.test.sdk/17.8.0/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs" Line="4" Column="41" />
+      <File FileName="Shop/Models/Spaceship/SpaceshipDetailsViewModel.cs" Line="7" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shop" expanded="True">
             <Node name="Shop">
-              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="Accounts" expanded="True" />
+                <Node name="Spaceship" expanded="True">
+                  <Node name="SpaceshipDetailsViewModel.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="Utilities" expanded="True" />
-              <Node name="Views">
-                <Node name="Accounts" expanded="True">
-                  <Node name="Register.cshtml" selected="True" />
-                </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Accounts" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Shop.Core">
+              <Node name="Dto" expanded="True">
+                <Node name="ChuckNorrisDtos" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -41,5 +44,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

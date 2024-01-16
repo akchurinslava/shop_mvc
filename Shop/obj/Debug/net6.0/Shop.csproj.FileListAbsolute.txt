@@ -783,3 +783,13 @@ C:/Users/opilane/source/repos/Shop-main/Shop/bin/Debug/net6.0/Microsoft.Web.Infr
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/Shop.pdb
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
 /Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop/obj/Debug/net6.0/ref/Shop.dll
+/Users/my_pc/Desktop/work/github/shop/Shop/bin/Debug/net6.0/CoverletSourceRootsMapping_Shop
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.csproj.AssemblyReference.cache
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.MvcApplicationPartsAssemblyInfo.cs
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.MvcApplicationPartsAssemblyInfo.cache
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cache
+/Users/my_pc/Desktop/work/github/shop/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cs

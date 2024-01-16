@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj": {}
+    "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj": {}
   },
   "projects": {
-    "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj": {
+    "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
+        "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
         "projectName": "Shop.SignalRChat",
-        "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
+        "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
         "packagesPath": "/Users/my_pc/.nuget/packages/",
-        "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/obj/",
+        "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/my_pc/.nuget/NuGet/NuGet.Config"

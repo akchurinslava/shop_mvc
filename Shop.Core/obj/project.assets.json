@@ -9828,11 +9828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj",
+      "projectUniqueName": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj",
       "projectName": "Shop.Core",
-      "projectPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/Shop.Core.csproj",
+      "projectPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/Shop.Core.csproj",
       "packagesPath": "/Users/my_pc/.nuget/packages/",
-      "outputPath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.Core/obj/",
+      "outputPath": "/Users/my_pc/Desktop/work/github/shop/Shop.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/my_pc/.nuget/NuGet/NuGet.Config"

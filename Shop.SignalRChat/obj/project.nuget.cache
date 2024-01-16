@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+Lwya3gYwTSJkjisM2/DbdocK0itZJjnLbwhzosThE8LZ2237AVpxXNxgC5yfBtvv9QrF0VSNOHKQMVXn8rQQ==",
+  "dgSpecHash": "ck2ch7EydlWuG4DLOGaAABVbbWFkhqx+w7JoR+RsOiw8jH6TMYKaDdsVrvkn987Ua4Jrc4WZpBZQv9y1Bj8Q8g==",
   "success": true,
-  "projectFilePath": "/Users/my_pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/i_cloud_drive/devorg_ou/programming/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
+  "projectFilePath": "/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/Shop.SignalRChat.csproj",
   "expectedPackageFiles": [
     "/Users/my_pc/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.25/microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",
     "/Users/my_pc/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.25/microsoft.aspnetcore.cryptography.keyderivation.6.0.25.nupkg.sha512",
