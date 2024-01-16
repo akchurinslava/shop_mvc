@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Shop.SignalRChat.props" />
-</Project>
