@@ -30,6 +30,7 @@
     <Folder Include="Views\Accounts\" />
     <Folder Include="Models\Accounts\" />
     <Folder Include="Utilities\" />
+    <Folder Include="Security\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -48,6 +49,7 @@
     <None Remove="Views\Accounts\" />
     <None Remove="Models\Accounts\" />
     <None Remove="Utilities\" />
+    <None Remove="Security\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.0">
@@ -79,7 +81,9 @@
     </PackageReference>
     <PackageReference Include="MailKit" Version="4.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.25" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.25" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.26" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />

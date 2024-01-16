@@ -584,6 +584,8 @@ C:/Users/opilane/source/repos/Shop-main/Shop.ApplicationServices/obj/Debug/net6.
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Humanizer.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/MailKit.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Facebook.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.ApplicationServices/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

@@ -1,4 +1,5 @@
-﻿<div class="row">
+﻿@model Shop.Models.Accounts.LoginViewModel
+<div class="row">
     <div class="col-md-6"
          <h1>Local Account</h1>
         <hr />
@@ -35,4 +36,29 @@
 	        </div>
         </form>
 </div>
+    <div class="col-md-6">
+        <h1>External Login</h1>
+        <hr />
+        @{
+            if (Model.ExternalLogins.Count == 0)
+            {
+                <div>No external login</div>
+	        }
+            else
+	        {
+                <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl">
+                    <div>
+                        @foreach (var provider in Model.ExternalLogins)
+                            { 
+                                <button type="submit" class="btn btn-primary" style="width:auto" name="provider" value="@provider.Name"
+					            title="Login using your @provider.DisplayName account">
+
+				                </button>
+			                }
+		            </div>
+		        </form>
+	        }
+	        
+        }
+    </div>
 </div>

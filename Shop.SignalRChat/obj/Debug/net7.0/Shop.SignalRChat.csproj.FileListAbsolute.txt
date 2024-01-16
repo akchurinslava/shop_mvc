@@ -44,6 +44,8 @@
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.runtimeconfig.json
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Shop.SignalRChat.pdb
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Facebook.dll
+/Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
 /Users/my_pc/Desktop/work/github/shop/Shop.SignalRChat/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll

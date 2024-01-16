@@ -1,54 +1,43 @@
 ﻿<Properties StartupConfiguration="{A80FD6C1-FCF3-4227-B000-AE4D79EE9D2B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Models/Spaceship/SpaceshipDetailsViewModel.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Shop/Views/Accounts/ForgotPasswordConfirmation.cshtml" />
-      <File FileName="Shop/Views/Accounts/Login.cshtml" />
-      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" />
-      <File FileName="Shop/Views/Accounts/Register.cshtml" Line="20" Column="51" />
-      <File FileName="Shop/Models/Accounts/RegisterViewModel.cs" />
-      <File FileName="Shop/Views/Accounts/ResetPassword.cshtml" />
-      <File FileName="Shop/Models/Accounts/ResetPasswordViewModel.cs" />
-      <File FileName="Shop/Views/Accounts/ResetPasswordConfirmation.cshtml" />
-      <File FileName="Shop/Views/Shared/_Layout.cshtml" />
-      <File FileName="Shop/Controllers/AccountsController.cs" />
-      <File FileName="Shop/Program.cs" Line="15" Column="44" />
-      <File FileName="Shop.Core/Dto/ChuckNorrisDtos/ChuckNorrisResponseRootDto.cs" Line="8" Column="29" />
-      <File FileName="Shop/Utilities/ValidEmailDomainAttribute.cs" Line="17" Column="23" />
-      <File FileName="../../../../.nuget/packages/microsoft.net.test.sdk/17.8.0/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs" Line="4" Column="41" />
-      <File FileName="Shop/Models/Spaceship/SpaceshipDetailsViewModel.cs" Line="7" Column="11" />
+      <File FileName="Shop/Controllers/AccountsController.cs" Line="230" Column="50" />
+      <File FileName="Shop/Program.cs" Line="74" Column="19" />
+      <File FileName="Shop/Models/Accounts/LoginViewModel.cs" Line="19" Column="1" />
+      <File FileName="Shop.Core/Domain/ApplicationUser.cs" Line="9" Column="35" />
+      <File FileName="Shop/Views/Accounts/Login.cshtml" Line="54" Column="71" />
+      <File FileName="Shop/Views/Shared/_Layout.cshtml" Line="19" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shop" expanded="True">
             <Node name="Shop">
-              <Node name="Models" expanded="True">
-                <Node name="Spaceship" expanded="True">
-                  <Node name="SpaceshipDetailsViewModel.cs" selected="True" />
-                </Node>
+              <Node name="Models">
+                <Node name="Spaceship" expanded="True" />
               </Node>
               <Node name="Utilities" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Accounts" expanded="True" />
                 <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
             <Node name="Shop.Core">
-              <Node name="Dto" expanded="True">
-                <Node name="ChuckNorrisDtos" expanded="True" />
-              </Node>
+              <Node name="Domain" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
